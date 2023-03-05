@@ -710,7 +710,6 @@ margin-bottom: 60px;
 }
 
 .subscribe-group-button {
-	box-sizing: border-box;
 	width: 330px;
 	height: 50px;
 	background-color: #b59f5b;
@@ -1164,6 +1163,10 @@ margin-bottom: 60px;
 .subscribe-field {
 	width: 272px;
 }
+
+.subscribe-group-button {
+	width: 100%; }
+
 .shop-products {
 	display: flex; 
 	flex-wrap: wrap;
