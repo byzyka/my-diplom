@@ -434,7 +434,7 @@ top: 0;
 	color: #b59f5b;
 }
 .content {
-	min-width: 360px;
+	/* min-width: 360px; */
 	padding-left: 16px;
 	padding-right: 16px;
 }
@@ -843,7 +843,7 @@ margin-bottom: 60px;
 } 
  
 .shop {
-	min-width: 360px;
+	/* min-width: 360px; */
 	padding: 0 16px;
 }
  
