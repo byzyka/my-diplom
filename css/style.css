@@ -268,8 +268,7 @@ top: 0;
 
 .reply  {
 	box-sizing: border-box;
-	min-width: 280px;
-	max-width: 280px;
+	width: 100%;
 	min-height: 132px;
 	max-height: 150px;
 	background-color: #f4f7f6;
@@ -1209,11 +1208,6 @@ margin-bottom: 60px;
 	margin: 0 auto;
 }
  
-.shop-product-img img {
-	width: 100%;
-	
-}
-
 }
 
 /***** header ****/
@@ -1313,7 +1307,7 @@ margin-bottom: 60px;
 }
 
 .popup-form-block-poll {
-	width: 330px;
+	width: 100%;
 }
 
 
@@ -1322,12 +1316,12 @@ margin-bottom: 60px;
 }
 
 .popup-form-block-textarea {
-	width: 331px;
+	width: 100%;
 }
 
 .reply  {
-	min-width: 331px;
-	max-width: 331px;
+	width: 100%;
+	
 }	
 	
 .reply:hover{
@@ -1335,7 +1329,7 @@ margin-bottom: 60px;
 }
 
 .popup-form-block-button {
-width: 331px;
+width: 100%;
 
 }
 
@@ -1354,7 +1348,8 @@ width: 331px;
 .content {
 	max-width: 1170px;
 	padding: 0 15px;
-	margin-bottom: 33px;
+	margin: 0 auto 33px;
+	
 	display: flex;
 	
 }
@@ -1513,7 +1508,9 @@ width: 331px;
 }
 
 .shop {
+	max-width: 1170px;
 	width: 100%;
+	margin: 0 auto;
  }
  
 .shop-products {
