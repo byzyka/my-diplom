@@ -1224,7 +1224,7 @@ margin-bottom: 60px;
 .header-menu {
 	display: flex;
     justify-content: space-between;
-	max-width: 1170px;
+	/* max-width: 1170px; */
 	margin: 0 auto 106px;
     padding: 28px 15px 0;
 }
